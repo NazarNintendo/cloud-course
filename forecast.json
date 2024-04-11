@@ -1,0 +1,18 @@
+{
+  "predictions": [
+    {
+      "classes": [
+        "0",
+        "1"
+      ],
+      "scores": [
+        0.99959754943847656,
+        0.00040241866372525692
+      ]
+    }
+  ],
+  "deployedModelId": "2390740700040790016",
+  "model": "projects/186934415911/locations/us-central1/models/8478977376082984960",
+  "modelDisplayName": "02a_nk_fraud_detection_20240411110925",
+  "modelVersionId": "1"
+}
